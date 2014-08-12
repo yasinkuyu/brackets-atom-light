@@ -13,8 +13,7 @@
         "brackets": ">=0.42.0"
     },
     "theme": {
-        "file": "main.less",
-        "dark": true
+        "file": "main.less"
     },
     "screenshot": "screenshot.png"
 }
